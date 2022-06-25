@@ -21,3 +21,9 @@ Steps
 6. download a tidy dataset
 
 
+## What month had the most sales?
+According to the dashboard, February had the most sales.
+I gather from the item code that there aren't many things in the lot.
+The item description depicts a paper craft bird.
+This item is particularly appealing to younger audiences. Understanding the buyer persona may be necessary for this.
+Young people with an entrepreneurial spirit are one possible persona. He could be adding items to his website for resale, and February must be a busy month for him or for sales.
