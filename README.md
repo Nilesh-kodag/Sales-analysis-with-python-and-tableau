@@ -21,5 +21,3 @@ Steps
 6. download a tidy dataset
 
 
-
-
